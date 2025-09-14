@@ -85,7 +85,7 @@ The crypto market is highly volatile, and traders risk missing profitable opport
 ## 📐 Workflow Architecture  
 Here’s the pipeline of the automation:  
 
-![Workflow Architecture](./docs/workflow-architecture.png)  
+![Workflow Architecture](https://github.com/AbdulTheAnalyst/Crypto-Watcher-Real-Time-Telegram-Alerts-/blob/main/2.png)  
 
 ---
 
